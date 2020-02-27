@@ -1,0 +1,123 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24 Feb, 2020, 7:51:56 PM
+    Author     : Mahodhay
+*/
+.page{
+    margin-top: 50px;
+    //background-color: rgba(0,0,255,0.3);
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    color: white;   
+}
+.navbar{
+    background-color: black;
+    color: black;
+}
+.header{
+    width: 30%;
+    margin: 50px auto 0px;
+    color: white;
+    background: #5F9EA0;
+    text-align: center;
+    border: 1px solid #B0C4DE;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+#banner_image{
+    padding-top: 75px;
+    //padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(Pictures/5.jpg) no-repeat center center;
+    background-size: cover
+}
+#banner_image3{
+    padding-top: 25px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(Pictures/0.jpg) no-repeat center center;
+    background-size: cover;
+    margin-bottom: 2px;
+}
+#banner_image2{
+    padding-top: 75px;
+    //padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    //background: url(Pictures/5.jpg) no-repeat center center;
+    background-size: cover;
+    
+}
+h1{
+    font: italic small-caps bolder 40px arial, sans-serif;
+    
+}
+#contentq{
+    max-width: 750px;
+    padding: 30px 50px;
+    margin: 5% 10% 10% 10%;
+    background-color: rgba(0,0,0,0.7);
+    
+    color: white;
+}
+#contentq2{
+    max-width: 750px;
+    padding: 30px 50px;
+    margin: 5% 10% 10% 10%;
+    background-color: rgba(0,0,0,0.6);
+    color: white;
+    box-shadow: 10px 10px 5px grey;
+}
+.container1{
+    background-color: rgba(0,0,255,0.7)
+}
+.oki{
+    padding-top: 2%;
+    padding-bottom: 70px;
+    
+}
+.k{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.k1{
+    background-color: white;
+    color: black;
+    box-shadow: 10px 10px 5px black;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
